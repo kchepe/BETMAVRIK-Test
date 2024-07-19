@@ -31,6 +31,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Build the app using docker
 
-``bash
+```bash
 docker-compose up
 ```
